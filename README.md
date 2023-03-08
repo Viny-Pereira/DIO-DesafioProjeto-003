@@ -1,7 +1,5 @@
 # Dio Desafio Amazon DynamoDB
 
-![]()
-
 ## Introdução
 
 - Criação de banco de dados em Amazon DynamoDB da lista dos 10 filmes mais bem avaliados da história
