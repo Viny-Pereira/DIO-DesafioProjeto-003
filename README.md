@@ -9,9 +9,9 @@
 #### SQL
 
 - Tem como foco o relacionamento entre as entidades dentro do banco, se baseando no modelo relaciona.
-- É necessário determinar uma extrutura previamente, composta de chaves primárias e chaves estrangeiras que ligam as tabelas entre si.
+- É necessário determinar uma estrutura previamente, composta de chaves primárias e chaves estrangeiras que ligam as tabelas entre si.
 - Exemplos de bancos
-  - Microsoft SQL Server, POstgreSQL, Oracle DB e MySQL
+  - Microsoft SQL Server, PostgreSQL, Oracle DB e MySQL
 
 #### NoSQL - Não relacional
 
@@ -24,9 +24,9 @@
 ### Amazon DynamoDB introdução
 
 - Serviço NoSQL gerenciado pela AWS, não necessitando de aporte em equipamentos, e cobrança por demanda
-- Baixa laténcia e grande volume de dados.
+- Baixa latência e grande volume de dados.
 
-#### Componetes
+#### Componentes
 
 - Tabela
 - Itens
@@ -38,10 +38,10 @@
 #### Boas práticas
 
 - Regras de negócio bem definidas
-- Pre-dimensionamento adequado
-- Minimizar o número de indices secundários
+- Pré-dimensionamento adequado
+- Minimizar o número de índices secundários
 - Access patterns
-- Indices secundários
+- Índices secundários
   - Global
   - Local
 
@@ -72,7 +72,7 @@
 #### Configuração AWS
 
 - Inserir credenciais:
-  `asw configure`
+  `aws configure`
 
 #### Criação do Banco de dados
 
@@ -112,7 +112,7 @@ aws dynamodb batch-write-item \
     --request-items file://batchfilm.json
 ```
 
-- Criar um index global secundário baeado no título do álbum
+- Criar um index global secundário baseado no título do álbum
   - Atualizar as informações da tabela
   - Adicionar os Atributos: Gender
   - Configurar o index secundário:
@@ -177,7 +177,7 @@ aws dynamodb query \
 
 - Pesquisar item por artista e título da música
   - Pesquisar na Tabela: Films
-  - Por Director e Title contidos no aquivo keyconditions.json
+  - Por Director e Title contidos no arquivo keyconditions.json
 
 ```
 aws dynamodb query \
