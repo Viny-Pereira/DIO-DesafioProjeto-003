@@ -1,7 +1,6 @@
 # Dio Desafio Amazon DynamoDB
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/121204240/223604472-728f92ba-5f74-4541-b8ff-5839d0e50318.png" />
-</p>
+
+![DIO_DynamoDB](https://user-images.githubusercontent.com/121204240/223779579-1ee2ba7c-846e-47f4-98a4-e527d4a39ae3.png)
 
 
 
