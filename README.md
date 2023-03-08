@@ -1,4 +1,5 @@
 # Dio Desafio Amazon DynamoDB
+![DIO_DynamoDB](https://user-images.githubusercontent.com/121204240/223791285-cd4e7357-174a-44c8-92e9-b6b147711bd7.png)
 
 ## Introdução
 
@@ -47,9 +48,9 @@
 
 #### Tipos de Dados
 
-    - Escalares
-    - Documentos
-    - Conjunto
+- Escalares
+- Documentos
+- Conjunto
 
 #### Modo de leitura e gravação
 
