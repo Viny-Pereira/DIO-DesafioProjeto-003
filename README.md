@@ -1,5 +1,10 @@
 # Dio Desafio Amazon DynamoDB
-![DybamoDB-logo](https://user-images.githubusercontent.com/121204240/223603150-decedc37-31e4-46dd-b6ac-d86ceb8791b2.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/121204240/223604472-728f92ba-5f74-4541-b8ff-5839d0e50318.png" />
+</p>
+
+
+
 ## Introdução 
 
 ### Tipos de bancos
