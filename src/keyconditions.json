@@ -1,4 +1,4 @@
 {
-    ":artist":{"S":"Iron Maiden"},
-    ":title":{"S":"Weekend Warrior"}
+  ":director": { "S": "Francis Ford Coppola" },
+  ":title": { "S": "The Godfather II" }
 }

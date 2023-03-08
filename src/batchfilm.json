@@ -1,0 +1,94 @@
+{
+  "Films": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Director": { "S": "Francis Ford Coppola" },
+          "Title": { "S": "The Godfather" },
+          "Gender": { "S": "Drama" },
+          "FilmYear": { "S": "1972" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Director": { "S": "Christopher Nolan" },
+          "Title": { "S": "The Dark Knight" },
+          "Gender": { "S": "Action" },
+          "FilmYear": { "S": "2008" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Director": { "S": "Francis Ford Coppola" },
+          "Title": { "S": "The Godfather II" },
+          "Gender": { "S": "Drama" },
+          "FilmYear": { "S": "1974" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Director": { "S": "Sergio Leone" },
+          "Title": { "S": "Twelve Angry Men" },
+          "Gender": { "S": "Drama" },
+          "FilmYear": { "S": "1957" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Director": { "S": "Steven Spielberg" },
+          "Title": { "S": " Schindler’s List" },
+          "Gender": { "S": "Historical" },
+          "FilmYear": { "S": "1993" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Director": { "S": "Peter Jackson" },
+          "Title": { "S": "The Lord of the Rings: The Return of the King" },
+          "Gender": { "S": "Fantasy" },
+          "FilmYear": { "S": "2003" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Director": { "S": "Quentin Tarantino" },
+          "Title": { "S": "Pulp Fiction" },
+          "Gender": { "S": "Police" },
+          "FilmYear": { "S": "1994" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Director": { "S": "Peter Jackson" },
+          "Title": { "S": "The Lord of the Rings: The Fellowship of the Ring" },
+          "Gender": { "S": "Fantasy" },
+          "FilmYear": { "S": "2001" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Director": { "S": "Sergio Leone" },
+          "Title": { "S": "Il Buono, il brutto, il cattivo" },
+          "Gender": { "S": "Western" },
+          "FilmYear": { "S": "1966" }
+        }
+      }
+    }
+  ]
+}
